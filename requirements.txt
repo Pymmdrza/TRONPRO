@@ -1,0 +1,5 @@
+pip install ecdsa
+pip install base58
+pip install colorama
+pip install tronapi
+pip install pycryptodome==3.4.3
